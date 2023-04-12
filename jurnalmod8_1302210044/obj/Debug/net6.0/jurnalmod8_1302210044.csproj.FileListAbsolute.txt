@@ -1,0 +1,15 @@
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.csproj.AssemblyReference.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.GeneratedMSBuildEditorConfig.editorconfig
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.AssemblyInfoInputs.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.AssemblyInfo.cs
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.csproj.CoreCompileInputs.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\bin\Debug\net6.0\jurnalmod8_1302210044.exe
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\bin\Debug\net6.0\jurnalmod8_1302210044.deps.json
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\bin\Debug\net6.0\jurnalmod8_1302210044.runtimeconfig.json
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\bin\Debug\net6.0\jurnalmod8_1302210044.dll
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\bin\Debug\net6.0\jurnalmod8_1302210044.pdb
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.dll
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\refint\jurnalmod8_1302210044.dll
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.pdb
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\jurnalmod8_1302210044.genruntimeconfig.cache
+D:\KONSTRUKSI PERANGKAT LUNAK\jurnalmod8_1302210044\jurnalmod8_1302210044\obj\Debug\net6.0\ref\jurnalmod8_1302210044.dll
